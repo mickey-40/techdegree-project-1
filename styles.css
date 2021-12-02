@@ -59,7 +59,7 @@ header {
   text-align: center;
   background: url('images/motorcyclebackground.jpg') no-repeat top center ;
   background-size: 1000px 700px;
-  overflow: hidden;
+  overflow: auto;
   padding-top: 60px;
 }
 header {
