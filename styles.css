@@ -98,6 +98,13 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
+
+h2{
+  text-align: center;
+  color: #b22222	;
+  font-size: 30px;
+  text-decoration: underline;
+}
 .card:hover {
   border-color: #ff99ff;
 }
