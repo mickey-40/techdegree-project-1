@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #f7f5f0;
+  background: #f0efe9;
 }
 /* Link Styles */
 
@@ -70,30 +70,32 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 3px solid red;
   transition: all .5s;
 }
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
 .tag {
-  background-color: #efefef;
+  background-color: rgba(255, 255, 128, .5);
   color: black;
-  padding: 10px;
+  padding: 15px;
   border-radius: 5px;
   display: table;
   margin: 10px auto;
+  
+  
 }
 .location {
-  background-color: #222;
-  color: yellow;
+  background-color: black;
+  color: #d61b1b;
 }
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
-  background: #fff;
+  background: rgb(177, 116, 76);
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
@@ -101,12 +103,12 @@ header .profile-image:hover {
 
 h2{
   text-align: center;
-  color: #b22222	;
+  color: #2b2222	;
   font-size: 30px;
   text-decoration: underline;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #ca170a;
 }
 
 ul.skills {
